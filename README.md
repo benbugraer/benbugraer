@@ -8,7 +8,8 @@
 
 
 
-- 👨‍🦰 Hi, I'm Buğra, I'm 23 years old and I've been learning coding since May 2023 and now I'm actively working on React, Tailwind CSS and NextJS. For more (Portfolio Coming Soon)...
+- 👨‍🦰 Hi, I'm Buğra, I'm 23 years old and I've been learning coding since June 2023 and now I'm actively working on React, Tailwind CSS and NextJS. For more (Portfolio Coming Soon)...
 - 🧰 I build with: `React`, `JavaScript`, `Tailwind CSS`, `Next.JS`, `Vite.JS`,  `Sass`, `Bootstrap`, ...
 - ⚡ I enjoy reading, playing and watching basketball and lifting weights :)
 - 📫 Reach out to me: (Portfolio Coming Soon...)
+- 📩 The best way you can contact me: `na.bugraer@gmail.com`
