@@ -12,4 +12,4 @@
 - 🧰 I build with: `React`, `JavaScript`, `Tailwind CSS`, `Next.JS`, `Vite.JS`,  `Sass`, `Bootstrap`, ...
 - ⚡ I enjoy reading, playing and watching basketball and lifting weights :)
 - 📫 Reach out to me: (Portfolio Coming Soon...)
-- 📩 The best way you can contact me: `na.bugraer@gmail.com`
+- 📩 The best way you can contact me: `bugraer.dev@gmail.com`
