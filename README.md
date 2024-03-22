@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/bugraerben)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/benbugraer)
 [<img src="https://img.shields.io/badge/threads-%230077B5.svg?&style=for-the-badge&logo=threads&logoColor=black&color=f1f1f1" />](https://www.threads.net/@benbugraer)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=405DE6" />](https://www.instagram.com/benbugraer/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/n-bu%C4%9Fra-er/)
