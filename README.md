@@ -7,6 +7,6 @@
 
 More more more about me check this out [portfolio](https://bugraer.vercel.app/) website!
 - 🏢 Software Developer (Front End for now!) [@Looking for job](https://www.linkedin.com/in/n-bu%C4%9Fra-er/)...
-- 🧰 I build with: `JavaScript`, `React`,`React Native`, `Expo` ,`Next.JS`, `Redux`, `Tailwind`,  `Figma`, `TypeScript(soon!)`, `GraphQL(soon!!)`, `MongoDB(soon!!)`, ...
+- 🧰 I build with: `JavaScript`, `TypeScript` ,`React`,`React Native`, `Expo` ,`Next.JS`, `Tailwind`
 - ⚡ I enjoy watching basketball, reading, coffee, and lifting weights :)
 - 📫 Reach out to me: bugraerdev@gmail.com
