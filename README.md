@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bugraer/)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://x.com/bugraerdev)
 
-More more more about me check this out [portfolio](https://bugraer.vercel.app/) website!
+More more more about me check this out [portfolio](https://www.bugraer.com/) website!
 - 🏢 Frontend Developer [@Looking for job](https://www.linkedin.com/in/bugraer/)...
 - 🧰 I build with: `JavaScript`, `TypeScript` ,`React`,`Next.JS`, `NodeJS`,`ExpressJS`, `Tailwind`, `Shadcn UI`, `Supabase`, 
 - ⚡ I enjoy watching basketball, reading, coffee, lifting weights and running :)
